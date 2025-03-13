@@ -7,6 +7,6 @@
 <title>New jsp file</title>
 </head>
 <body>
-
+  <p>new jsp file</p>
 </body>
 </html>

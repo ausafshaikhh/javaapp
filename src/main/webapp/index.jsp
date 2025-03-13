@@ -2,6 +2,7 @@
 <body>
 <h2>This is java web app homepage!</h2>
 <a href="about.jsp">About page</a>
+<hr>
 <a href="newfile.jsp">newfile</a>
 </body>
 </html>
